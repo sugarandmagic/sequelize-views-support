@@ -1,3 +1,10 @@
+## [4.1.2](https://github.com/sugarandmagic/sequelize-mv-support/compare/v4.1.1...v4.1.2) (2022-11-29)
+
+
+### Bug Fixes
+
+* set correct return type on result of define method ([78f20bf](https://github.com/sugarandmagic/sequelize-mv-support/commit/78f20bf32f48f86da7ec1c75cc245f869a0d50d0))
+
 ## [4.1.1](https://github.com/sugarandmagic/sequelize-mv-support/compare/v4.1.0...v4.1.1) (2022-11-29)
 
 
